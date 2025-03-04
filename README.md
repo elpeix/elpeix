@@ -30,7 +30,3 @@ I'm **elpeix** (which means *The Fish* in Catalan), a developer who enjoys build
 - **Languages**: JavaScript, TypeScript, Python
 - **Frameworks & Tools**: Electron, React, Node.js
 - **Shell**: fish shell, of course 🐟
-
-### 📫 Let's Connect
-
-Have questions, ideas, or just want to debate whether semicolons in JavaScript are a necessary evil or a relic of the past? Open an issue or reach out—always happy to chat!
