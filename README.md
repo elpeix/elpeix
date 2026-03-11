@@ -21,6 +21,8 @@ I'm **elpeix** (which means *The Fish* in Catalan), a developer who enjoys build
 
 - **[apicalls](https://github.com/elpeix/apicalls)**: A desktop app built with Electron that makes testing REST APIs a breeze. Because manually typing `curl` commands is so last decade.
 
+- **[rivulet](https://github.com/elpeix/rivulet)**: A TUI RSS reader written in Rust. Reading feeds in a browser feels unnecessarily graphical.
+
 - **[kaa](https://github.com/elpeix/kaa)**: A minimalist Python server framework for REST apps. Simple, clean, and does what it says—no unnecessary magic, just good old RESTful efficiency.
 
 - **[connect4](https://github.com/elpeix/connect4)**: The classic Connect Four game, but with my own twist. Because sometimes, between serious projects, you just need to drop some discs and feel like a strategist.
